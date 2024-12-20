@@ -9,7 +9,7 @@ import {
 } from '@builder.io/sdk-qwik';
 
 // Define Builder's public API key and content model.
-export const BUILDER_PUBLIC_API_KEY = /* Put your Public API Key here */;
+export const BUILDER_PUBLIC_API_KEY = '2d4a30644ade4e51b187d00545836faa';
 export const BUILDER_MODEL = 'page';
 
 // Define a route loader function that loads
